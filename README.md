@@ -17,7 +17,7 @@ C++ 常见容器的实现代码
 - 跳表(github https://github.com/greensky00/skiplist)
 - 图
 - trie 数 (github https://github.com/s-yata/darts-clone)
-- lrucache : list+hashmap (boost)
+- lrucache : (boost)
 
 
 # 数据结构说明
